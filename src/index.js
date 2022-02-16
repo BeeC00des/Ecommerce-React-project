@@ -7,4 +7,12 @@ import "font-awesome/css/font-awesome.css"
 
 // var element = <button class="btn btn-danger">Hello World</button>
 
-ReactDOM.render(<App />, document.getElementById("root"))
+// ReactDOM.render(<App />, document.getElementById("root"))
+ReactDOM.render(
+    <React.StrictMode>
+      <HashRouter>
+        <App />
+      </HashRouter>
+    </React.StrictMode>,
+    document.getElementById('root')
+  );
