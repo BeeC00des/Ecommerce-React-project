@@ -1,0 +1,38 @@
+
+{
+   "products":[
+      {"id":1, 
+       "productName": "iphone",
+       "price":8900, 
+       "quantity":0
+      },
+      {
+         "id":2,
+         "productName":"VR-glass",
+         "price":200,
+         "quantity":0
+      },
+      {
+         "id":3,
+         "productName":"META Bag",
+         "price":200,
+         "quantity":0
+      },
+      {
+         "id":4,
+         "productName":"Ferra",
+         "price":200,
+         "quantity":0
+      },
+      {
+         "id":5,
+         "productName":"hubolt",
+         "price":200,
+         "quantity":0
+      }
+   ],
+   "users":[
+      {"id":1, "email":"scott@test.com", "password": "scott123"},
+      {"id":2, "email":"allen@test.com", "password": "allen123"}
+   ]
+} 

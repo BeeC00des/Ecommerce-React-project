@@ -1,0 +1,16 @@
+.highlight {
+  background-color: antiquewhite;
+}
+
+.navbar-style {
+  background-color: #0c8351 !important;
+  color: #fff !important;
+}
+
+.collapse.in {
+  display: block;
+}
+
+.hand-icon {
+  cursor: pointer;
+}

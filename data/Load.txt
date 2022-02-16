@@ -1,0 +1,2 @@
+cd into data  file
+To load json server run : json-server react-db.json --watch
